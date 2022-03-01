@@ -20,7 +20,8 @@ This project focuses on classifying market states into bull, bear and static. We
 Here we also upload a final solusion(paper) named IAQF_2022_Solution.pdf.
 
 ## Team
-Team name: Five+1 Guys
-Team member: Vanessa Liang, Guojun Chen, Simon Chau, Jonathan Sun, Wenyi Huang, Jiarui Li
+**Team name**: Five+1 Guys
+
+**Team member**: Vanessa Liang, Guojun Chen, Simon Chau, Jonathan Sun, Wenyi Huang, Jiarui Li
 
 
