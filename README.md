@@ -16,6 +16,8 @@ This project focuses on classifying market states into bull, bear and static. We
 - **Deep Learning - Mass Production.ipynb**: Find the optimal threshold from the trading result of different deep learning model (GRU and ESN);
 - **Backtesting.ipynb**: creates a class for backtesting, including the trading strategy. 
 
+NOTE: ALL codes are written in Google Colab.
+
 ## Final Solution
 Here we also upload a final solusion(paper) named IAQF_2022_Solution.pdf.
 
